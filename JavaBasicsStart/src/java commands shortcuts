@@ -1,0 +1,47 @@
+
+
+
+
+
+cntr+space - help center
+
+syso +cntrl+space - System.out.println();
+
+cmd+shift+f - make code look good
+
+cmd+shift+o - for scanner
+
+variable.length -> tells how many elements
+
+break - break/exist loop block
+continue - skips current execution/iteration
+
+
+
+
+String commands inside -> "" 
+   
+   \' -> Single quotation mark
+   \" -> Double quotation mark
+   \\ -> Backslash \
+   \t -> TAb
+   \b -> Backspace
+   \r -> Carriage return
+   \f -> Formfeed
+   \n -> Newline 
+
+Methods 
+
+Variablename.length()                                           - count numbers of char
+
+Variablename.toUpperCase()                                      - converts to upper case
+
+Variablename.toLowerCase()                                      - converts to lower case
+
+Variablename.trim()                                             - taking away spaces from start and end of a String 
+
+Variablename.equalsIgnoreCase                                   -  checks if two Strings are exactly the same with same case but does not care about the case of letters
+
+Variable.replaceAll("[a-z]"<-replace that,for that-> " "));     -replace from a string (ascii table) [^a-z] ^ <-- means remove everything expect that 
+
+       

@@ -1,0 +1,47 @@
+"This" keyword:
+  "this" is a keyword like "class","void". it is used in many places.for example
+  if we have same name instance and a local variable can use "this" to explicitly refer to instance variable.
+  We can use "this()" to cal a constructor inside another constructor.
+why should we learn about "this" keyword:
+  1)it allows us to have same name local and instance variable.
+  2)if we have same code in two constructors we can reuse that code from one constructor inside another
+  constructor by writing "this()".
+  
+"Super" keyword:
+  we use the super keyword to explicitly call the variable  from the parent class. when we have
+  same name instance variable in child class and parent class.
+  we can use the super keyword to call the constructor of the parent class.
+
+
+  Final Keyword:
+    final keyword is just like any other keyword in Java like class package void etc.
+    there are three man uses of final keyword.
+    1)if we use final keyword with a class no other class can inherit from that class.
+    2)If we use it with a method name no child class can override that method.
+    3)if we use it with a field  once the value has been assigned  to that field no one can change it value afterwards
+
+  final static variables - constants
+  constants we write using UPPERCASE
+      -final public static boolean FRESH=true;
+      -final public static boolean CAN_EAT=true;
+           *you can not change value of variables
+
+       METHODS() with final keyword can't be override
+  _______________________________________________
+  
+Inheritance:
+  Inheritance is a mechanism in java through which we can use the fields/methods of one class inside another class.
+     There are 4 types of inheritance.
+     1)Single inheritance:
+       * we can have only 1 parent and 1 child class.
+     2)Multilevel Inheritance:
+       * we have inheritance in multiple levels like we have a grandfather->father->son->grand son
+     3)Hierarchical inheritance:
+       * one parent clas and multiple direct child classes.
+     4)Multiple inheritance:
+       * one child class can directly inherit from multiple parent classes. it is not supported by java
+       because of diamond problem
+why should we learn inheritance?
+  it allows to reduce the duplicate code.
+what is the syntax?
+  we can use this feature by writing "extends" keyword when declaring a class.

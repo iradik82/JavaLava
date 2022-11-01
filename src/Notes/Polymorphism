@@ -1,0 +1,9 @@
+Polymorphism:
+  polymorphism is the ability of a method to take on many forms based on the object or the parameters that we pass
+  to the method.
+Types of polymorphism :
+  there are two types of polymorphism.
+  1)compile time/static/early binding
+     * When we use method overloading to achieve polymorphism it is called compile polymorphism.
+  2)run time/dynamic or late binding.
+     *when we use method overriding to achieve polymorphism then it is called run time polymorphism.

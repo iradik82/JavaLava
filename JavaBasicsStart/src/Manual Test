@@ -1,0 +1,121 @@
+
+Class 2 - Manual Testing
+Recap --
+Why do we need to test?
+To assure the quality of the software, we need to test it.
+STLC -
+requirement analysis - We analyse the requirements based on the smart 
+criteria
+test planning - test plan - Test/QA Lead/ manager
+test case development -
+Testing heirarchy -
+Dev - where developers develop the application
+Test/qa - where QA engineers perform testing
+Staging/cert/qual/MR3 - where client testers perform testing/uat testing
+production - it is live environment
+
+Class 3 - Manual testing
+Recap --
+STLC -
+Test case development -
+Testing hierarchy -
+What we should do when we found a bug?
+Verify if it is reproducible or not
+Read the req to make sure that the bug you found is actually a bug
+intermittent bugs (sometimes they appear sometimes they don't)
+BUG LIFE CYCLE
+How to report it?
+COLLECT AS MUCH AS INFORMATION POSSIBLE:
+- exact steps we took to reproduce the bug
+- Browser, time, the environment, test data, logs, screenshots or screen 
+recording
+Severity - the seriousness of the defect
+Priority - it defines the order in which our bug should be fixed
+Cucumber / BDD / Gherkin
+It allows you to write test cases/scenarios in simple plain english 
+sentences
+
+
+Every scenario in BDD represents a Test case
+Given - it represents pre condition  (pre condition)
+When - to perform actions            (to perform actions)
+Then - expected result               (Expected results)
+And - supporting tag                 (supporting tag)
+
+
+Scenario - Verify the login functionality for amazon
+Given user is able to access amazon application in browser
+When user enters username in username textfield
+And user enters password in password textfield
+And user clicks on login button
+Then user should be able to see home page
+
+it is recommended and best practice to write cucumber scenarios in third 
+person point of view
+
+it is used to describe business rules
+
+
+Types of testing -
+2 types -
+Functional - to check the functionality of the application
+non-functional - backend testing behind the scenes
+Regression testing - testing the complete functionality/ all the 
+test cases called regression testing
+unit testing
+integration testing
+system testing
+Smoke testing
+UAT
+
+
+Class 4 Manual testing 
+
+Integration testing
+performance testing
+508 Compliance testing
+ad hoc testing - exploratory testing, informal testing - 
+
+
+project management tool
+
+
+HP ALM - application lifecycle management
+HP QC
+Devops Azure
+Rally
+Trello
+JIRA
+
+Why Project management tool?
+
+to see the project status
+reporting purpose
+user stories,spring
+
+
+Class 5 Manual test
+
+Acceptance criteria
+
+DOR - Definition of ready - when scrum team gets complete details about the user
+                              story and estimated it properly for taking up for the development
+DOD - Definition of done -  when development is done, testing is done, status of all test cases for 
+                              this user story is green and code is committed , then DOD is completed.
+
+
+
+Agile ceremonies
+
+Product backlog - it has all the product user story items
+Sprint  backlog - we take only those items we will work on during spring
+
+
+Sprint planning -
+
+
+
+
+
+
+

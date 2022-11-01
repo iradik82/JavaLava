@@ -1,0 +1,43 @@
+MethodOverLoading:
+ method overloading allows us to create multiple methods in a class with same name.
+Why we should create multiple methods with same name?
+ it gives the end user flexibility.
+ The end user can call the same method with different parameters to get same or different results.
+How do we overload a method?
+  1) By passing different number of parameters.
+  2) By changing the datatype.
+  3) By changing the sequence of parameters.
+
+Why we should override a method?
+  1)when we inherit from a class everything other this private methods and constructors and constructors is inherited if we don't like any method
+  from the parent we can override.
+  2) it helps us achieve polymorphism.
+what is the syntax to override a method:
+  !)First there muxt be a parent child relationship.
+  2)in the child class just redefine the method.
+Type casting in objects:
+  as we can type cast in the primitive data types we can also type cast objects.
+  like storing the object of a child class in a variable of parent type.
+Why we should type cast objects?
+  with the help of type casting we can start storing the objects of child classes in a array of type parent.
+What is the Syntax to type cast?
+  it's same as primitive type casting for example if we have animal class and animal class has a child class Cat we can do
+  Animal animal=new cat();
+
+Polymorphism:
+  polymorphism is the ability of a method to take on many forms based on the object or the parameters that we pass
+  to the method.
+Types of polymorphism :
+  there are two types of polymorphism.
+  1)compile time/static/early binding
+     * When we use method overloading to achieve polymorphism it is called compile polymorphism.
+  2)run time/dynamic or late binding.
+     *when we use method overriding to achive polymorphism then it is called run time polymorphism.
+
+Final Keyword:
+  final keyword is just like any other keyword in Java like class package void etc.
+  there are three man uses of final keyword.
+  1)if we use final keyword with a class no other class can inherit from that class.
+  2)If we use it with a method name no child class can override that method.
+  3)if we use it with a field  once the value has been assigned  to that field no one can change it value afterwards.
+

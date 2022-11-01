@@ -1,0 +1,44 @@
+Why we should learn about the methods:
+   Methods help us reduce the amount of code that we have to write. For example if
+   a piece of code is being repeated. We can create a method for it and simple call that method
+   whenever we need that logic again;
+Syntax of creating a method:
+  we can create methods only inside a class.
+  [datatype] [method name] [(datatype variableName)][method body]
+  [datatype] can be void boolean String int etc.
+  [method name] They ara like variable names.
+  [(datatype variableName)] used to pass data while calling method.
+How do we decide that we should use void or a method with a return keyword1:
+  if we are building a method that will be used by others or in other parts of your code which
+  require some data from your method like an if condition we should not create methods with void
+  type
+
+================================================================================
+Types of variables with respect to their scope:
+    there are three types of variables w.r.t. their scope.
+    1) local variables.
+    2) instance variable.
+    3) static variables.
+1)Local variables:
+    A variable that is created inside a method loop switch case or any block of code is called local variable.
+  When we should use local variables:
+    Local variable occupy the computers memory for the shortest amount of time. We should always go with
+    Local Variables if it possible,but they are limited in scope we can't use local variables outside the
+    block in which they are declare
+
+    for (int i=0;i<5;i++){
+    System.out.println(i);
+    }
+
+2)Instance variable:
+   Which are declared outside of a block of code but inside the class are called instance variables.
+ When we should use instance variables:
+   when we are planing to create multiple objects of a class, or we want to share something in
+   multiple methods we should go with instance variables. They occupy the memory for longer as compared to
+   local variables.
+
+3)static variables:
+   if an instance variable has a keyword static with if it's called a static variable.
+ When we should use static variables:
+   When we need to share something across the objects. We use static variables.
+   but it occupies the memory for longest amount of time

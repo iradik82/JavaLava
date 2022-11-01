@@ -1,0 +1,27 @@
+case 1
+Given user is able to add product to the shop cart
+when user opened a product he want
+and user clicks  on a "add to cart"
+then user should see his product in his "shop cart"
+
+
+case 2 
+Given user must be able to share selected product with ..
+When user find a product that he would like share 
+And user click on a product
+And user click "share icon"
+Then user can choose an option how he would like to share this product
+Then user can share it 
+
+case 3
+Given user is able to search product in a searching line
+When user clicks on a searching line
+And user typed the name of the product he wants
+Then user can see all available items Amazon have
+
+case 4
+Given user is able to order product
+When user clicks on a "Buy now"
+And user confirm all the payment and shipment info
+And user clicks on a "place your order"
+Then user will see page with confirmation information

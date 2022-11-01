@@ -1,0 +1,50 @@
+2. A constructor in Java is similar to a method that is invoked when an object of the class is created.
+Unlike Java methods,a constructor has the same name as that of the class and does not have any return type.
+We use the constructor to initialize variables
+
+3. In java, super keyword is used to access methods of the parent class while this is used to access methods
+of the current class.this keyword is a reserved keyword in java i.e, we can't use it as an identifier.
+It is used to refer current class's instance as well as static members
+
+4. Inheritance in Java is a concept that acquires the properties from one class to other classes;
+for example, the relationship between father and son.
+Inheritance in Java is a process of acquiring all the behaviours of a parent object.
+
+Single, Multiple, Multilevel & Heirical
+
+5. Method Overloading allows different methods to have the same name,
+ but different signatures where the signature can differ by the number
+of input parameters or type of input parameters, or a mixture of both.
+ Method overloading is also known as Compile-time Polymorphism, Static Polymorphism,
+ or Early binding in Java
+
+6. method overriding occurs when a subclass (child class) has the same method as the parent class.
+And  is giving its own implementation to the method.
+When we create an object of the child class java will give preference to the method on a child class over the parent
+
+7. Polymorphism is a feature of object-oriented programming languages that allows
+ a specific routine to use variables of different types at different times.
+ Polymorphism is the ability of a programming language to present the same interface
+ for several different underlying data types.
+
+
+8. The final keyword is a non-access modifier used for classes, attributes and methods,
+ which makes them non-changeable (impossible to inherit or override).
+The final keyword is useful when you want a variable to always store the same value,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
