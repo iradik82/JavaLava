@@ -16,8 +16,7 @@ class EncapsulationDemo{
     }
 
     public void setEmpAge(int empAge) {
-        this.empAge = empAge;
-    }
+   }
 }
 public class repl178 {
     public static void main(String[] args) {
