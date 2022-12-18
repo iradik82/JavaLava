@@ -5,15 +5,118 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c579735e-733a-4e55-a5e2-d8a3e712d3a8" name="Changes" comment="updates">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Book 2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Test23.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/HMiarrayList/eventNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/class26/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/class26/SetsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/class26/Setsdemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/class26/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/class26/duplicatesRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/class26/setdemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/class27/Task1Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/class27/Task2CountriesABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/class27/Task4Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/class27/Task6String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/class27/Test7IntegerSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/class27/task5topEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HM/class27/test3BestBuy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl215BalancetParentesist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl215EvenOpenAndCloseBrecets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl215Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl216ArraySunToZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl216anotherexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl217Duplicatecounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl217anotherExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl218PutcountAnother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl218putCountWithWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl219prefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl220FormatString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl221FindLargestEvenLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl222MaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl222MaxSumSecondWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl224RemoveConsecutiveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl225ReverseNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl226ReverseStringNoStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl227HTML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewsQustions/repl227onemore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java26class051122LinkedList/ArrayListVsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java26class051122LinkedList/TypesOfSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java26class051122LinkedList/WhenToUseSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java26class051122LinkedList/WhySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java27class061122Lists/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java27class061122Lists/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java27class061122Lists/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java27class061122Lists/MapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java27class061122Lists/MapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java27class061122Lists/MapDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java27class061122Lists/MapDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java27class061122Lists/mapDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java28class101222FileHandlingExcel/ExcelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java28class101222FileHandlingExcel/FileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java28class101222FileHandlingExcel/FileDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java28class101222FileHandlingExcel/task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java29classFileHandling/FileConfigreader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java29classFileHandling/ReadingExcelFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/java29classFileHandling/ReadingExcelfromExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/ArrayList&amp;iterator&amp;sets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Collections Framework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/FileHandling" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class12Collection/DemoSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class12Collection/Demoset1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class12Collection/ListDemoWithCustomClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class12Collection/Studento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class12Collection/listDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class12Collection/mapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass/class13/interviewTaskStringToCharCountLetters.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ReviewClass/class5FinalAbstractInterface/Car.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ReviewClass/class5FinalAbstractInterface/CarTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ReviewClass/class5FinalAbstractInterface/juice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exelDemo/exel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/Repl191.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/SyntaxStudentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/fibofibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/rapl188.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/repls/repl178.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/repls/repl181.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/repls/repl182.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl183.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl190.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl194.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl195.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl196.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl199.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repls/repl210.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replsAgain/repls31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replsAgain/repls67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replsAgain/repls68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replsAgain/repls69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replsAgain/repls71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/exelReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaClasses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaClasses.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HM/HMiarrayList/drinkslist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HM/HMiarrayList/drinkslist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Notes/this.super keyword &amp; inheritance" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/this.super keyword &amp; inheritance" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repls/Surround135.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repls/repl135.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +135,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,27 +154,32 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/radik/IdeaProjects/JavaClasses/Data&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Data" />
       <recent name="$PROJECT_DIR$/src/Notes" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/JavaBasicsStart" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.repl182">
-    <configuration name="IteratorDemo4WithLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaClasses.java25class291022WrapperClasses.IteratorDemo4WithLambda" />
+  <component name="RunManager" selected="Application.repl227HTML">
+    <configuration name="repl218PutcountAnother" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewsQustions.repl218PutcountAnother" />
       <module name="JavaClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaClasses.java25class291022WrapperClasses.*" />
+          <option name="PATTERN" value="InterviewsQustions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="drinkslist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HM.HMiarrayList.drinkslist" />
+    <configuration name="repl218putCountWithWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewsQustions.repl218putCountWithWords" />
       <module name="JavaClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HM.HMiarrayList.*" />
+          <option name="PATTERN" value="InterviewsQustions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repl178" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repls.repl178" />
+    <configuration name="repl226ReverseStringNoStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewsQustions.repl226ReverseStringNoStringBuilder" />
       <module name="JavaClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repls.*" />
+          <option name="PATTERN" value="InterviewsQustions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repl181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repls.repl181" />
+    <configuration name="repl227HTML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewsQustions.repl227HTML" />
       <module name="JavaClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repls.*" />
+          <option name="PATTERN" value="InterviewsQustions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="repl182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repls.repl182" />
+    <configuration name="repl227onemore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewsQustions.repl227onemore" />
       <module name="JavaClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repls.*" />
+          <option name="PATTERN" value="InterviewsQustions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.repl182" />
-        <item itemvalue="Application.repl181" />
-        <item itemvalue="Application.repl178" />
-        <item itemvalue="Application.drinkslist" />
-        <item itemvalue="Application.IteratorDemo4WithLambda" />
+        <item itemvalue="Application.repl227HTML" />
+        <item itemvalue="Application.repl218PutcountAnother" />
+        <item itemvalue="Application.repl218putCountWithWords" />
+        <item itemvalue="Application.repl227onemore" />
+        <item itemvalue="Application.repl226ReverseStringNoStringBuilder" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +318,36 @@
           <line>1</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repls/repl189.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewsQustions/repl215BalancetParentesist.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewsQustions/repl218putCountWithWords.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewsQustions/repl219prefix.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewsQustions/repl224RemoveConsecutiveDuplicates.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewsQustions/repl227onemore.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/HM/HM1/CreateMail.java</url>
           <line>18</line>
@@ -227,15 +365,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/HM/HM0210/Students.java</url>
-          <line>27</line>
-          <properties class="HM.HM0210.Students" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/HM/HMInheritance/ShapeClass.java</url>
@@ -345,6 +474,105 @@
           </properties>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/repls/rapl188.java</url>
+          <line>6</line>
+          <properties class="repls.rapl188" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/JavaClasses/java27class061122Lists/MapDemo2.java</url>
+          <line>5</line>
+          <properties class="JavaClasses.java27class061122Lists.MapDemo2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/HM/class27/Task1Building.java</url>
+          <line>14</line>
+          <properties class="HM.class27.Task1Building" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/JavaClasses/java29classFileHandling/ReadingExcelFileDemo.java</url>
+          <line>12</line>
+          <properties class="JavaClasses.java29classFileHandling.ReadingExcelFileDemo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/replsAgain/repls67.java</url>
+          <line>3</line>
+          <properties class="replsAgain.repls67" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/replsAgain/repls71.java</url>
+          <line>3</line>
+          <properties class="replsAgain.repls71" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/repls/repl209.java</url>
+          <line>8</line>
+          <properties class="repls.repl209" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/InterviewsQustions/repl217Duplicatecounts.java</url>
+          <line>21</line>
+          <properties class="InterviewsQustions.repl217Duplicatecounts" method="countDuplicates">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/InterviewsQustions/repl216ArraySunToZero.java</url>
+          <line>10</line>
+          <properties class="InterviewsQustions.repl216ArraySunToZero" method="sumToZero">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/InterviewsQustions/repl218PutcountAnother.java</url>
+          <line>37</line>
+          <properties class="InterviewsQustions.repl218PutcountAnother" method="countDeviceNames">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/InterviewsQustions/repl221FindLargestEvenLength.java</url>
+          <line>10</line>
+          <properties class="InterviewsQustions.repl221FindLargestEvenLength" method="findMaxLenEven">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -353,8 +581,14 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaClasses$repl226ReverseStringNoStringBuilder.ic" NAME="repl226ReverseStringNoStringBuilder Coverage Results" MODIFIED="1670435407658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>InterviewsQustions.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/JavaClasses$DifferntHello.ic" NAME="DifferntHello Coverage Results" MODIFIED="1664665936657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>HomeWork.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaClasses$repl189.ic" NAME="repl189 Coverage Results" MODIFIED="1667506697568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>repls.*</FILTER>
     </SUITE>
   </component>
 </project>

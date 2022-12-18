@@ -1,0 +1,45 @@
+ArrayList Class:
+  it is a classes in collections frame work that allows us to store data like an array.
+  some common methods from this class ar 1)add() 2)remove 3) contains 4) size()
+
+Iterator:
+  it's a mechanism that allows us to iterate and delete data from any class in collections framework.
+  it has hasNext() next() remove().
+
+why we should learn about Iterator?
+   Because loops are not safe when we perform an operation that can change the size of a data structure.
+
+
+   ArrayList Vs LinkedList
+       Both of the classes implement the list interface which means both of them will have same methods.
+   ArrayList:
+       uses an array behind the scenes to store the data.
+       we should use arrayList when we are retrieving the data most of the time and not inserting the data in the start or in-between
+       if we have to shift the data.
+       to the list.
+   LinkedList:
+       Linked-list does not store the data in consecutive memory locations that's why it is easier to insert and remove the data from anywhere
+       in a list.
+       if you are going to manipulate the data(shifting of elements) always use linked-list.
+
+   if most of the time you use add or remove method then use linkedList.
+   if most of the time you use get method use ArrayList.
+   
+   
+   Sets:
+       Sets are another set of datastructures in collections framework that allow us to store only unique data.
+       as we can convert any data structure in collections framework we can use sets to remove duplicate data from
+       Lists we can also use sets.
+   Types of sets:
+       There are many types of Sets, but we will be discussing only 1) HashSet 2) LinkedHashset 3) TreeSet.
+   HashSet:
+       Upside: It is most memory efficient, and it requires less space as compared to other types of sets.
+       Downside: HashSet does not maintain the insertion order.
+   LinkedHashSet:
+       UpSide: order of the elements is maintained.
+       DownSide: it takes more memory, and it is slower than Hashset.
+   TreeSet:
+       UpSide: Data is sorted in natural order.
+       DownSide: It is slowest, and it takes more memory than Hashset.
+   Demos of storing the objects of a custom class
+   and how we can iterate through sets

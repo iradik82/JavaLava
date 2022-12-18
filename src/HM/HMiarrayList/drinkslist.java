@@ -10,16 +10,22 @@ public class drinkslist {
         drink.add("Whisky");
         drink.add("Absent");
         drink.add("Marine");
+        drink.add("Milk");
 
-        var iterator = drink.iterator();
+        for (int i = 0; i <drink.size() ; i++) {
+            if(drink.get(i).contains("a")||drink.get(i).contains("e")){
+                drink.set(i,"Water");
+            }
+        }
+
+       /* var iterator = drink.iterator();
         while (iterator.hasNext()) {
             var item =iterator.next();
             if (item.contains("a")||item.contains(("e"))) {
             drink.set(drink.indexOf(item),"Water");
 
-            }
-
-        }
+            }*/
         System.out.println(drink);
+        }
+
     }
-}

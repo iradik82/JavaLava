@@ -1,0 +1,18 @@
+FileHandling:
+    Reading writing data to files with the help of java is called file handling.
+Steps to read data from any files on any computer:
+    1)location of file on our computer.
+    2) we need to go to that location.
+    3) we need a software that can read and write data to that file for exmaple we need Microsoft Excel if we
+    want to work with xlsx files.
+
+Why we learn FileHandLing:
+   1)When we perform data diven testing we need to store data in files.
+   2)Storing critical data like userNames and password inside the code is bad,because when we push the code to github
+   that info will be pushed with it, to avoid this we use properties files.
+   3)Sometimes data can be huge in GBs,and it's very bad practice to push GBS to GitHub.
+
+How can we read data from file?
+  1)First we need to know the location(path) of the file.
+  2)Navigate to that location where file is stored.
+  3)We need a special class/Software that can help us read/write to that file.
